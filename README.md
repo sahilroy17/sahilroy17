@@ -5,7 +5,6 @@ A passionate Computer Science & Engineering student focused on building clean ba
 
 ## 🛠️ Tech Stack & Skills
 
-Humne aapki skills ko proper categories me organize kar diya hai taaki grid ekdam clean aur sundar lage:
 
 | Category | Tools & Technologies |
 | :--- | :--- |
